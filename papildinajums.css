@@ -1,0 +1,27 @@
+body {background-image: url("zx3.jpg");
+}
+
+body.a {background-image: url("zx4.jpg");
+}
+
+body.b {background-image: url("zx5.jpg");
+}
+
+body.c {background-image: url("zx4.jpg");
+}
+
+body.d {background-image: url("zx4.jpg");
+}
+
+body.f {background-image: url("zx4.jpg");
+}
+
+h1 {font-size: 50px; 
+    color: rgb(255, 0, 0);
+    text-align: center;}
+
+h2 {font-size: 30px;
+color: rgb(0, 255, 255);}
+
+h3 {font-size: 30px;
+color:rgb(255, 0, 0);}
